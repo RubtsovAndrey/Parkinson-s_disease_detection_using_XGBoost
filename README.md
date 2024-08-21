@@ -69,7 +69,7 @@ The project generates three main plots that are saved in the `plots/` directory:
 ![Training History](plots/training_history.png).
 - **Важность признаков | Feature Importance**: График, показывающий важность различных признаков для модели | A plot showing the importance of different features for the model
 ![Feature Importance](plots/feature_importance.png).
-- **Итоговая точность модели | Final Model Accuracy**: График, отображающий достигнутую моделью точность на тестовой выборке | A plot displaying the accuracy achieved by the model on the test set
+- **Итоговая точность модели | Final Model Accuracy**: График, отображающий достигнутую моделью точность на тестовой выборке (ну не совсем график, конечно :-D) | A plot displaying the accuracy achieved by the model on the test set
 ![Model Accuracy](plots/model_accuracy.png).
 
 ## Запуск проекта | Running the Project
