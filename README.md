@@ -65,9 +65,9 @@ The main goal of the project is to build a model capable of achieving over 95% a
 
 The project generates three main plots that are saved in the `plots/` directory:
 
-- **История обучения | Training History**: График изменения logloss во время обучения и кросс-валидации (`training_history.png`) | A plot showing the logloss changes during training and cross-validation (`training_history.png`).
-- **Важность признаков | Feature Importance**: График, показывающий важность различных признаков для модели (`feature_importance.png`) | A plot showing the importance of different features for the model (`feature_importance.png`).
-- **Итоговая точность модели | Final Model Accuracy**: График, отображающий достигнутую моделью точность на тестовой выборке (`model_accuracy.png`) | A plot displaying the accuracy achieved by the model on the test set (`model_accuracy.png`).
+- **История обучения | Training History**: График изменения logloss во время обучения и кросс-валидации | A plot showing the logloss changes during training and cross-validation (`plots/training_history.png`).
+- **Важность признаков | Feature Importance**: График, показывающий важность различных признаков для модели | A plot showing the importance of different features for the model (`plots/feature_importance.png`).
+- **Итоговая точность модели | Final Model Accuracy**: График, отображающий достигнутую моделью точность на тестовой выборке | A plot displaying the accuracy achieved by the model on the test set (`plots/model_accuracy.png`).
 
 ## Запуск проекта | Running the Project
 
